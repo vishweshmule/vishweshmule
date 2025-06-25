@@ -1,16 +1,14 @@
-## Hi there 👋
+
+# 👋 Hi, I'm Vishwesh Mule
+
+🎓 B.E. in Computer Science | 💻 Software Developer with 1.5 Years of Experience  
+🛠️ Tech Stack: Java | Python | C++ | Spring Boot | Angular | SQL  
+🚀 Currently building real-world projects and actively applying to backend/full stack roles.  
+📁 Check out my projects below, more coming soon!  
+📫 Reach me at: [your-email@example.com] | 📍 Pune, India
 
 <!--
-**vishweshmule/vishweshmule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📊 GitHub Stats Section (Optional)
+![Vishwesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishweshmule&show_icons=true&theme=default)
 -->
+
