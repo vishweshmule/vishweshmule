@@ -5,7 +5,7 @@
 🛠️ Tech Stack: Java | Python | C++ | Spring Boot | Angular | SQL  
 🚀 Currently building real-world projects and actively applying to backend/full stack roles.  
 📁 Check out my projects below, more coming soon!  
-📫 Reach me at: [your-email@example.com] | 📍 Pune, India
+📫 Reach me at: vishweshmule2017@gmail.com | 📍 Pune, India
 
 <!--
 📊 GitHub Stats Section (Optional)
